@@ -1,0 +1,6 @@
+[submodule "hpcc"]
+	path = hpcc
+	url = git@github.com:technion-csl/hpcc.git
+[submodule "gups"]
+	path = gups
+	url = git@github.com:technion-csl/gups.git
